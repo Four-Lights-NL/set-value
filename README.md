@@ -1,3 +1,7 @@
+# This is a forked version, because the original is not maintained anymore.
+
+----
+
 # set-value [![NPM version](https://img.shields.io/npm/v/set-value.svg?style=flat)](https://www.npmjs.com/package/set-value) [![NPM monthly downloads](https://img.shields.io/npm/dm/set-value.svg?style=flat)](https://npmjs.org/package/set-value) [![NPM total downloads](https://img.shields.io/npm/dt/set-value.svg?style=flat)](https://npmjs.org/package/set-value)  [![Tests](https://github.com/jonschlinkert/set-value/actions/workflows/main.yml/badge.svg)](https://github.com/jonschlinkert/set-value/actions/workflows/main.yml)
 
 > Set nested properties on an object using dot notation.
